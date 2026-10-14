@@ -1,0 +1,6 @@
+Number of Features,Selected Features,CV RMSE
+1,numeric__R&D Spend,9745.400782319542
+2,"numeric__R&D Spend, numeric__Marketing Spend",9482.344018607648
+3,"numeric__R&D Spend, numeric__Marketing Spend, numeric__Administration",9678.076017204628
+4,"numeric__R&D Spend, numeric__Marketing Spend, numeric__Administration, state__State_Florida",9885.562229856809
+5,"numeric__R&D Spend, numeric__Marketing Spend, numeric__Administration, state__State_Florida, state__State_New York",10158.66083824471
