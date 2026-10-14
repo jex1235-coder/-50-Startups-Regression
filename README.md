@@ -4,6 +4,8 @@
 
 🌐 **線上互動展示網址 (GitHub Pages)**:  
 👉 **[https://jex1235-coder.github.io/-50-Startups-Regression/](https://jex1235-coder.github.io/-50-Startups-Regression/)**
+<img width="1851" height="911" alt="image" src="https://github.com/user-attachments/assets/2996033b-c719-4d49-bbef-17f31b824d79" />
+
 
 ---
 
